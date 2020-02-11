@@ -1,0 +1,25 @@
+/* =============
+    Buttons
+============= */
+
+
+button {
+    background-color: #F5F5F5;
+    border: 2px $red solid;
+    border-radius: 10px;
+
+
+    font-weight: 700;
+    color: $black;
+    height: 50px;
+    font-family: 'Barlow';
+    width: 200px;
+    }
+
+
+    button:hover {
+        background-color: $red;
+        color: $white;
+        height: 50px;
+        transition: 0.25s;
+        }

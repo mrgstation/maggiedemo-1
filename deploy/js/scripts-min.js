@@ -1,0 +1,1 @@
+var options={valueNames:["name","interest"]},nameList=new List("names",options);
